@@ -1,0 +1,2 @@
+Coloque aqui as fotos de voces (foto1.jpg, foto2.jpg, ...).
+Os nomes devem bater com a lista "fotos" dentro do index.html.
